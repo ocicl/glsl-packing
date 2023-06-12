@@ -1,0 +1,10 @@
+* glsl-packing
+
+calculate std140/std430 layout for a glsl UBO/SSBO
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/3b/glsl-packing.git   |
+| commit  | 0362815  |
+| systems | glsl-packing |
+|---------+-------------------------------------------|
+
